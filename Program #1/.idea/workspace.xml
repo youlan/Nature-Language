@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28e7c46b-57b6-42d4-9f31-89b3f0123ad1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hZom7XeEehVM2uDWGpogXjXc34" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../LeetCode" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../LeetCode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.1329sortMatrixDiagonally">
+    <configuration name="1329sortMatrixDiagonally" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Program #1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../LeetCode" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../LeetCode/1329sortMatrixDiagonally.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coolFeature" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Program #1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../LeetCode" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../LeetCode/coolFeature.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="digitAnagrams" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Program #1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../LeetCode" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../LeetCode/digitAnagrams.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reduceNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Program #1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../LeetCode" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../LeetCode/reduceNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="restorNumbersonCircle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Program #1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../LeetCode" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../LeetCode/restorNumbersonCircle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1329sortMatrixDiagonally" />
+        <item itemvalue="Python.digitAnagrams" />
+        <item itemvalue="Python.restorNumbersonCircle" />
+        <item itemvalue="Python.coolFeature" />
+        <item itemvalue="Python.reduceNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28e7c46b-57b6-42d4-9f31-89b3f0123ad1" name="Default Changelist" comment="" />
+      <created>1600228130360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600228130360</updated>
+      <workItem from="1600228131485" duration="49344000" />
+      <workItem from="1600383287709" duration="7094000" />
+      <workItem from="1600407647992" duration="23437000" />
+      <workItem from="1600742722957" duration="185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="948" height="273" key="GridCell.Tab.0.bottom" timestamp="1600663853800">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state width="948" height="276" key="GridCell.Tab.0.bottom/0.23.1792.1030@0.23.1792.1030" timestamp="1600446635747" />
+    <state width="948" height="273" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1600655446121" />
+    <state width="948" height="273" key="GridCell.Tab.0.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1600663853800" />
+    <state width="948" height="273" key="GridCell.Tab.0.bottom/0.23.1792.1034@0.23.1792.1034" timestamp="1600663477998" />
+    <state width="948" height="273" key="GridCell.Tab.0.center" timestamp="1600663853799">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state width="948" height="276" key="GridCell.Tab.0.center/0.23.1792.1030@0.23.1792.1030" timestamp="1600446635746" />
+    <state width="948" height="273" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1600655446120" />
+    <state width="948" height="273" key="GridCell.Tab.0.center/0.23.1792.1033@0.23.1792.1033" timestamp="1600663853799" />
+    <state width="948" height="273" key="GridCell.Tab.0.center/0.23.1792.1034@0.23.1792.1034" timestamp="1600663477997" />
+    <state width="948" height="273" key="GridCell.Tab.0.left" timestamp="1600663853799">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state width="948" height="276" key="GridCell.Tab.0.left/0.23.1792.1030@0.23.1792.1030" timestamp="1600446635746" />
+    <state width="948" height="273" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1600655446120" />
+    <state width="948" height="273" key="GridCell.Tab.0.left/0.23.1792.1033@0.23.1792.1033" timestamp="1600663853799" />
+    <state width="948" height="273" key="GridCell.Tab.0.left/0.23.1792.1034@0.23.1792.1034" timestamp="1600663477997" />
+    <state width="948" height="273" key="GridCell.Tab.0.right" timestamp="1600663853800">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state width="948" height="276" key="GridCell.Tab.0.right/0.23.1792.1030@0.23.1792.1030" timestamp="1600446635746" />
+    <state width="948" height="273" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1600655446120" />
+    <state width="948" height="273" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1600663853800" />
+    <state width="948" height="273" key="GridCell.Tab.0.right/0.23.1792.1034@0.23.1792.1034" timestamp="1600663477998" />
+    <state x="573" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1600742723447">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state x="573" y="362" key="com.intellij.ide.util.TipDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1600742723447" />
+    <state x="573" y="364" key="com.intellij.ide.util.TipDialog/0.23.1792.1030@0.23.1792.1030" timestamp="1600383289636" />
+    <state x="917" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1600655625071">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="917" y="248" width="670" height="676" key="search.everywhere.popup/0.23.1792.1031@0.23.1792.1031" timestamp="1600655625071" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Program__1$functionTs.coverage" NAME="functionTs Coverage Results" MODIFIED="1600446635737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeetCode" />
+    <SUITE FILE_PATH="coverage/Program__1$queryArrMat.coverage" NAME="queryArrMat Coverage Results" MODIFIED="1600584985687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeetCode" />
+    <SUITE FILE_PATH="coverage/Program__1$sentiment.coverage" NAME="sentiment Coverage Results" MODIFIED="1600229212421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Program__1$rotateMatrix.coverage" NAME="rotateMatrix Coverage Results" MODIFIED="1600567980974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeetCode" />
+    <SUITE FILE_PATH="coverage/Program__1$restorNumbersonCircle.coverage" NAME="restorNumbersonCircle Coverage Results" MODIFIED="1600662631361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeetCode" />
+    <SUITE FILE_PATH="coverage/Program__1$mergeTwostrings.coverage" NAME="mergeTwostrings Coverage Results" MODIFIED="1600624755412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeetCode" />
+    <SUITE FILE_PATH="coverage/Program__1$rameWindow.coverage" NAME="rameWindow Coverage Results" MODIFIED="1600586460446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeetCode" />
+    <SUITE FILE_PATH="coverage/Program__1$1329sortMatrixDiagonally.coverage" NAME="1329sortMatrixDiagonally Coverage Results" MODIFIED="1600663477954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeetCode" />
+    <SUITE FILE_PATH="coverage/Program__1$digitAnagrams.coverage" NAME="digitAnagrams Coverage Results" MODIFIED="1600662682743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeetCode" />
+    <SUITE FILE_PATH="coverage/Program__1$reduceNumber.coverage" NAME="reduceNumber Coverage Results" MODIFIED="1600625785467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeetCode" />
+    <SUITE FILE_PATH="coverage/Program__1$isPrefix.coverage" NAME="isPrefix Coverage Results" MODIFIED="1600583334909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeetCode" />
+    <SUITE FILE_PATH="coverage/Program__1$name_constructor.coverage" NAME="name_constructor Coverage Results" MODIFIED="1600556830803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeetCode" />
+    <SUITE FILE_PATH="coverage/Program__1$divisorSubstring.coverage" NAME="divisorSubstring Coverage Results" MODIFIED="1600584005337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeetCode" />
+    <SUITE FILE_PATH="coverage/Program__1$goodTuples.coverage" NAME="goodTuples Coverage Results" MODIFIED="1600559611671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeetCode" />
+    <SUITE FILE_PATH="coverage/Program__1$coolFeature.coverage" NAME="coolFeature Coverage Results" MODIFIED="1600660501644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../LeetCode" />
+  </component>
+</project>
