@@ -10,26 +10,19 @@ def stopWord(file):
         stop_words.add(word)
     return stop_words
 
-def filterSW(sentence, stopwords):
-    words = set(sentence)
-    return words- stopwords
-
-
 def convertDefinition(file, stopwords):
     fp = open(file,"r")
     definitions = {}
     for line in fp.readlines():
         terms = line.strip().split("\t")
         #print(terms)
-        words = []
-        for term in terms:
+        words = set()
+        for term in terms[1:]:
             for w in term.split(" "):
-                if w.isalpha():
-                    words.append(w.lower())
-
-        wordSet = filterSW(words, stopwords)
-        #print(wordSet)
-        definitions[terms[0]] = wordSet
+                w = w.lower()
+                if any(c.isalpha() for c in w) and w not in stopwords:
+                    words.add(w)
+        definitions[terms[0]] = words
     return definitions
 
 def sentence_analysis(line, stopwords):
@@ -40,20 +33,11 @@ def sentence_analysis(line, stopwords):
 
     words = set()
     for w in all_part.split(" "):
-        if w.isalpha():
-            words.add(w.lower())
+        w = w.lower()
+        if any(c.isalpha() for c in w) and w not in stopwords:
+            words.add(w)
 
-    return target.lower(), filterSW(words, stopwords)
-
-def get_targetWords(test_file):
-    fp = open(test_file, "r")
-
-    target_words = set()
-    for line in fp.readlines():
-        target = line.split("<occurrence>")[1].split("</>")[0]
-        target_words.add(target.lower())
-    return target_words
-
+    return target.lower(), words
 
 
 def main(test_file, definitions, stop_file):
@@ -62,7 +46,7 @@ def main(test_file, definitions, stop_file):
     #print(stop_words)
     definitions_dicts = convertDefinition(definitions, stop_words)
 
-    target_words = get_targetWords(test_file)
+    #target_words = get_targetWords(test_file)
 
     output = open(test_file+".lesk", "w")
 
@@ -76,10 +60,10 @@ def main(test_file, definitions, stop_file):
 
         for k in definitions_dicts.keys():
             define_word = definitions_dicts[k]
-            intersection = define_word.intersection(words)-target_words
+            intersection = define_word.intersection(words)
             freq[k] += len(list(intersection))
         sentence_freq = sorted(freq.items(), key=lambda x: (-x[1], x[0]))
-        print(sentence_freq)
+
         for item in sentence_freq:
             output.write(str(item[0])+"("+str(item[1])+") ")
         output.write("\n")

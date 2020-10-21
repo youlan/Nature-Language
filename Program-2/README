@@ -1,0 +1,10 @@
+1. run CKY parser:
+
+python cky.py data/pcfg-example.txt data/sentences-example.txt
+
+2. run probabilitic CKY praser:
+
+python cky.py data/pcfg-example.txt data/sentences-example.txt -prob
+
+
+The output ".cky" or ".probcky" file will be generated at the same folder of sentences file.
